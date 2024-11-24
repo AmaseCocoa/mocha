@@ -1,2 +1,2 @@
 # mocha
-An experiment in creating a statically typed language that will be transpiled into Python. 
+Mocha is a statically typed language that transpiles into Python inspired by TypeScript.
